@@ -2,7 +2,7 @@ TEAMS = ['Buffalo Bills', 'Miami Dolphins', 'New England Patriots', 'New York Je
 
 # parse the file and get the stats for the wanted team
 # stats are GP, PF, PA respectively in the returned list
-def fileToTeam(filename, teamname):
+def getTotalsTeam(filename, teamname):
     output = []
     file = open(filename, 'r')
     lines = file.readlines()
@@ -16,12 +16,24 @@ def fileToTeam(filename, teamname):
     
     return output
 
-# use the fileToTeam function to get the stats
+# use the getTotalsTeam function to get the stats
 # for every team in the league and returns a 2D list
-def fileToLeague(filename):
+def getTotalsLeague(filename):
     output = []
 
     for team in TEAMS:
-        output.append(fileToTeam(filename, team))
+        output.append(getTotalsTeam(filename, team))
 
+    return output
+
+def getScoresTeam(filename, teamname):
+    output = []
+    file = open(filename, 'r')
+    lines = file.readlines()
+
+    for line in lines:
+        spl_line = line.split(',')
+        if spl_line[0] == teamname:
+            output.append(int(spl_line[1]))
+    
     return output

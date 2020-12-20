@@ -1,7 +1,9 @@
 import fileReader
 
 def main():
-    titans = fileReader.teamToFile('season-data.csv', 'Tennessee Titans')
+    titans = fileReader.getScoresTeam('games-data.csv', 'Tennessee Titans')
     print(titans)
+    nfl = fileReader.getTotalsLeague('season-data.csv')
+    print(len(nfl))
 
 main()
