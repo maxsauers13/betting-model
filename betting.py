@@ -1,5 +1,6 @@
 import montecarlo
 
+# determine moneyline odds from a winning percentage
 def moneyline(percentage):
     output = 0
 
@@ -11,6 +12,7 @@ def moneyline(percentage):
         return '+'+str(output)
     
 
+# determine the spread using past scores for each team
 def spread(scores1, scores2):
     differences = []
 
@@ -19,7 +21,8 @@ def spread(scores1, scores2):
     
     return sum(differences) // len(differences)
 
-def over(scores1, scores2):
+# determine the over/under line using past scores
+def overUnder(scores1, scores2):
     avg1 = sum(scores1) / len(scores1)
     avg2 = sum(scores2) / len(scores2)
 

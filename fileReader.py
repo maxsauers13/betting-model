@@ -26,6 +26,7 @@ def getTotalsLeague(filename):
 
     return output
 
+# get a list of all the scores for a team
 def getScoresTeam(filename, teamname):
     output = []
     file = open(filename, 'r')
