@@ -6,7 +6,8 @@ import time
 import re
 
 GAME_LENTH = 16000
-URL = 'https://il.sportsbook.fanduel.com/sports/navigation/6227.1/13348.3'
+#URL = 'https://il.sportsbook.fanduel.com/sports/navigation/6227.1/13348.3'
+URL = 'https://sportsbook.fanduel.com/sports/navigation/830.1/10107.3'
 
 #open driver and get html as a string
 def getHtml(url):

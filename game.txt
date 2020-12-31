@@ -1,24 +1,24 @@
 class="event last" data-v-f59d14fe="">
-                              <div data-v-f59d14fe="" idfoevent="944865.3">
+                              <div data-v-f59d14fe="" idfoevent="947175.3">
                                <!-- -->
-                               <div class="layout coupon-event big3-event NFL">
+                               <div class="layout coupon-event big3-event BASKETBALL">
                                 <div class="flex names participants">
                                  <div class="event-info clickable team-logos">
                                   <div class="eventTitle away">
-                                   <span class="team-logo" style='background-image: url("https://s3.amazonaws.com/cdn.fanduel.com/images/2019/Sportsbook/NFL+Logos/Washington_Football_Team.png");'>
+                                   <span class="team-logo" style='background-image: url("https://s3.amazonaws.com/cdn.fanduel.com/images/2019/Sportsbook/NBA+Logos/Phoenix_Suns.png");'>
                                    </span>
                                    <!-- -->
                                    <span class="name">
-                                    Washington Football Team
+                                    Phoenix Suns
                                    </span>
                                   </div>
                                   <!-- -->
                                   <div class="eventTitle home">
-                                   <span class="team-logo" style='background-image: url("https://s3.amazonaws.com/cdn.fanduel.com/images/2019/Sportsbook/NFL+Logos/Philadelphia_Eagles.png");'>
+                                   <span class="team-logo" style='background-image: url("https://s3.amazonaws.com/cdn.fanduel.com/images/2019/Sportsbook/NBA+Logos/Utah_Jazz.png");'>
                                    </span>
                                    <!-- -->
                                    <span class="name">
-                                    Philadelphia Eagles
+                                    Utah Jazz
                                    </span>
                                   </div>
                                   <!-- -->
@@ -37,12 +37,12 @@ class="event last" data-v-f59d14fe="">
                                     <!-- -->
                                     <div class="markets" data-v-2e07da95="">
                                      <div class="market points" data-v-2e07da95="">
-                                      <div class="selections layout" data-v-2e07da95="" idfomarket="43132240.3" isfrompush="false">
+                                      <div class="selections layout" data-v-2e07da95="" idfomarket="43299406.3" isfrompush="false">
                                        <!-- -->
                                        <div class="layout column wrap" data-v-2e07da95="">
                                         <div class="flex" data-v-2e07da95="">
                                          <span class="selection flex" data-v-2e07da95="">
-                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="155280231.3">
+                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="156231869.3">
                                            <!-- -->
                                            <!-- -->
                                            <div class="value" data-v-7f128c6a="">
@@ -52,7 +52,7 @@ class="event last" data-v-f59d14fe="">
                                               <!-- -->
                                               <!-- -->
                                               <div class="currenthandicap" data-v-7f128c6a="">
-                                               -1.5
+                                               +3.5
                                               </div>
                                              </div>
                                              <div class="selectionprice" data-v-7f128c6a="">
@@ -67,7 +67,7 @@ class="event last" data-v-f59d14fe="">
                                         </div>
                                         <div class="flex" data-v-2e07da95="">
                                          <span class="selection flex" data-v-2e07da95="">
-                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="155280209.3">
+                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="156231899.3">
                                            <!-- -->
                                            <!-- -->
                                            <div class="value" data-v-7f128c6a="">
@@ -76,7 +76,7 @@ class="event last" data-v-f59d14fe="">
                                               <!-- -->
                                               <!-- -->
                                               <div class="currenthandicap" data-v-7f128c6a="">
-                                               +1.5
+                                               -3.5
                                               </div>
                                               <!-- -->
                                              </div>
@@ -94,19 +94,19 @@ class="event last" data-v-f59d14fe="">
                                       </div>
                                      </div>
                                      <div class="market money" data-v-2e07da95="">
-                                      <div class="selections layout" data-v-2e07da95="" idfomarket="43132242.3" isfrompush="false">
+                                      <div class="selections layout" data-v-2e07da95="" idfomarket="43299482.3" isfrompush="false">
                                        <!-- -->
                                        <div class="layout column wrap" data-v-2e07da95="">
                                         <div class="flex" data-v-2e07da95="">
                                          <span class="selection flex" data-v-2e07da95="">
-                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="155280196.3">
+                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="156232005.3">
                                            <!-- -->
                                            <!-- -->
                                            <div class="value" data-v-7f128c6a="">
                                             <div class="sh" data-v-7f128c6a="">
                                              <!-- -->
                                              <div class="selectionprice" data-v-7f128c6a="">
-                                              -120
+                                              +134
                                              </div>
                                             </div>
                                            </div>
@@ -117,14 +117,14 @@ class="event last" data-v-f59d14fe="">
                                         </div>
                                         <div class="flex" data-v-2e07da95="">
                                          <span class="selection flex" data-v-2e07da95="">
-                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="155280194.3">
+                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="156232011.3">
                                            <!-- -->
                                            <!-- -->
                                            <div class="value" data-v-7f128c6a="">
                                             <div class="sh" data-v-7f128c6a="">
                                              <!-- -->
                                              <div class="selectionprice" data-v-7f128c6a="">
-                                              +102
+                                              -158
                                              </div>
                                             </div>
                                            </div>
@@ -137,12 +137,12 @@ class="event last" data-v-f59d14fe="">
                                       </div>
                                      </div>
                                      <div class="market total" data-v-2e07da95="">
-                                      <div class="selections layout" data-v-2e07da95="" idfomarket="43132241.3" isfrompush="false">
+                                      <div class="selections layout" data-v-2e07da95="" idfomarket="43299487.3" isfrompush="false">
                                        <!-- -->
                                        <div class="layout column wrap" data-v-2e07da95="">
                                         <div class="flex" data-v-2e07da95="">
                                          <span class="selection flex" data-v-2e07da95="">
-                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="155280213.3">
+                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="156232123.3">
                                            <!-- -->
                                            <!-- -->
                                            <div class="value" data-v-7f128c6a="">
@@ -155,13 +155,13 @@ class="event last" data-v-f59d14fe="">
                                                <!-- -->
                                               </div>
                                               <div class="uo-currenthandicap" data-v-7f128c6a="">
-                                               43.5
+                                               220.5
                                               </div>
                                               <!-- -->
                                               <!-- -->
                                              </div>
                                              <div class="selectionprice" data-v-7f128c6a="">
-                                              -110
+                                              -115
                                              </div>
                                             </div>
                                            </div>
@@ -172,7 +172,7 @@ class="event last" data-v-f59d14fe="">
                                         </div>
                                         <div class="flex" data-v-2e07da95="">
                                          <span class="selection flex" data-v-2e07da95="">
-                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="155280202.3">
+                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="156232100.3">
                                            <!-- -->
                                            <!-- -->
                                            <div class="value" data-v-7f128c6a="">
@@ -185,13 +185,13 @@ class="event last" data-v-f59d14fe="">
                                                </span>
                                               </div>
                                               <div class="uo-currenthandicap" data-v-7f128c6a="">
-                                               43.5
+                                               220.5
                                               </div>
                                               <!-- -->
                                               <!-- -->
                                              </div>
                                              <div class="selectionprice" data-v-7f128c6a="">
-                                              -110
+                                              -105
                                              </div>
                                             </div>
                                            </div>
@@ -213,16 +213,6 @@ class="event last" data-v-f59d14fe="">
                                    <!-- -->
                                    <!-- -->
                                    <!-- -->
-                                   <!-- -->
-                                   <!-- -->
-                                   <!-- -->
-                                   <!-- -->
-                                   <!-- -->
-                                   <!-- -->
-                                   <!-- -->
-                                   <!-- -->
-                                   <!-- -->
-                                   <!-- -->
                                   </div>
                                  </div>
                                 </div>
@@ -232,11 +222,11 @@ class="event last" data-v-f59d14fe="">
                                  <!-- -->
                                  <span class="sgp-tag">
                                  </span>
-                                 <!-- -->
-                                 <!-- -->
                                  <span>
-                                  01/03/2021 7:20PM
+                                  Today 9:10PM
                                  </span>
+                                 <!-- -->
+                                 <!-- -->
                                  <!-- -->
                                 </div>
                                 <section>
@@ -264,4 +254,17 @@ class="event last" data-v-f59d14fe="">
                      </div>
                     </div>
                    </div>
-   
+                  </div>
+                  <!-- -->
+                 </div>
+                 <!-- -->
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="flex betslip-column" data-v-57f4e98e="">
+            <div class="betslip-page Idle betslip-empty" data-v-1914b622="" data-v-57f4e98e="" style="max-height: 780px;">
+             <div class="betslip-page-header" data-v-1914b622="">
+     
