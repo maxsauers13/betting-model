@@ -1,0 +1,226 @@
+class="event last" data-v-f59d14fe="">
+                              <div data-v-f59d14fe="" idfoevent="951081.3">
+                               <!-- -->
+                               <div class="layout coupon-event big3-event NFL">
+                                <div class="flex names participants">
+                                 <div class="event-info clickable">
+                                  <div class="eventTitle away">
+                                   <span class="name">
+                                    Tampa Bay Buccaneers
+                                   </span>
+                                   <!-- -->
+                                  </div>
+                                  <div class="eventTitle home">
+                                   <span class="name">
+                                    New Orleans Saints
+                                   </span>
+                                   <!-- -->
+                                  </div>
+                                 </div>
+                                </div>
+                                <div class="market">
+                                 <!-- -->
+                                 <div class="flex">
+                                  <!-- -->
+                                 </div>
+                                 <div class="markets-wrapper markets-container coupon" data-v-2e07da95="">
+                                  <div class="markets multiple" data-v-2e07da95="">
+                                   <!-- -->
+                                   <!-- -->
+                                   <div class="big3" data-v-2e07da95="">
+                                    <!-- -->
+                                    <div class="markets" data-v-2e07da95="">
+                                     <div class="market points" data-v-2e07da95="">
+                                      <div class="selections layout" data-v-2e07da95="" idfomarket="43600077.3" isfrompush="false">
+                                       <!-- -->
+                                       <div class="layout column wrap" data-v-2e07da95="">
+                                        <div class="flex" data-v-2e07da95="">
+                                         <span class="selection flex" data-v-2e07da95="">
+                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="157746384.3">
+                                           <!-- -->
+                                           <!-- -->
+                                           <div class="value" data-v-7f128c6a="">
+                                            <div class="sh" data-v-7f128c6a="">
+                                             <div class="currenthandicap" data-v-7f128c6a="">
+                                              <!-- -->
+                                              <!-- -->
+                                              <!-- -->
+                                              <div class="currenthandicap" data-v-7f128c6a="">
+                                               +3
+                                              </div>
+                                             </div>
+                                             <div class="selectionprice" data-v-7f128c6a="">
+                                              -105
+                                             </div>
+                                            </div>
+                                           </div>
+                                           <!-- -->
+                                          </div>
+                                         </span>
+                                         <!-- -->
+                                        </div>
+                                        <div class="flex" data-v-2e07da95="">
+                                         <span class="selection flex" data-v-2e07da95="">
+                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="157746364.3">
+                                           <!-- -->
+                                           <!-- -->
+                                           <div class="value" data-v-7f128c6a="">
+                                            <div class="sh" data-v-7f128c6a="">
+                                             <div class="currenthandicap" data-v-7f128c6a="">
+                                              <!-- -->
+                                              <!-- -->
+                                              <div class="currenthandicap" data-v-7f128c6a="">
+                                               -3
+                                              </div>
+                                              <!-- -->
+                                             </div>
+                                             <div class="selectionprice" data-v-7f128c6a="">
+                                              -115
+                                             </div>
+                                            </div>
+                                           </div>
+                                           <!-- -->
+                                          </div>
+                                         </span>
+                                         <!-- -->
+                                        </div>
+                                       </div>
+                                      </div>
+                                     </div>
+                                     <div class="market money" data-v-2e07da95="">
+                                      <div class="selections layout" data-v-2e07da95="" idfomarket="43600079.3" isfrompush="false">
+                                       <!-- -->
+                                       <div class="layout column wrap" data-v-2e07da95="">
+                                        <div class="flex" data-v-2e07da95="">
+                                         <span class="selection flex" data-v-2e07da95="">
+                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="157746351.3">
+                                           <!-- -->
+                                           <!-- -->
+                                           <div class="value" data-v-7f128c6a="">
+                                            <div class="sh" data-v-7f128c6a="">
+                                             <!-- -->
+                                             <div class="selectionprice" data-v-7f128c6a="">
+                                              +136
+                                             </div>
+                                            </div>
+                                           </div>
+                                           <!-- -->
+                                          </div>
+                                         </span>
+                                         <!-- -->
+                                        </div>
+                                        <div class="flex" data-v-2e07da95="">
+                                         <span class="selection flex" data-v-2e07da95="">
+                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="157746350.3">
+                                           <!-- -->
+                                           <!-- -->
+                                           <div class="value" data-v-7f128c6a="">
+                                            <div class="sh" data-v-7f128c6a="">
+                                             <!-- -->
+                                             <div class="selectionprice" data-v-7f128c6a="">
+                                              -162
+                                             </div>
+                                            </div>
+                                           </div>
+                                           <!-- -->
+                                          </div>
+                                         </span>
+                                         <!-- -->
+                                        </div>
+                                       </div>
+                                      </div>
+                                     </div>
+                                     <div class="market total" data-v-2e07da95="">
+                                      <div class="selections layout" data-v-2e07da95="" idfomarket="43600078.3" isfrompush="false">
+                                       <!-- -->
+                                       <div class="layout column wrap" data-v-2e07da95="">
+                                        <div class="flex" data-v-2e07da95="">
+                                         <span class="selection flex" data-v-2e07da95="">
+                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="157746365.3">
+                                           <!-- -->
+                                           <!-- -->
+                                           <div class="value" data-v-7f128c6a="">
+                                            <div class="sh" data-v-7f128c6a="">
+                                             <div class="currenthandicap" data-v-7f128c6a="">
+                                              <div class="had-value" data-v-7f128c6a="">
+                                               <span data-v-7f128c6a="">
+                                                O
+                                               </span>
+                                               <!-- -->
+                                              </div>
+                                              <div class="uo-currenthandicap" data-v-7f128c6a="">
+                                               51.5
+                                              </div>
+                                              <!-- -->
+                                              <!-- -->
+                                             </div>
+                                             <div class="selectionprice" data-v-7f128c6a="">
+                                              -118
+                                             </div>
+                                            </div>
+                                           </div>
+                                           <!-- -->
+                                          </div>
+                                         </span>
+                                         <!-- -->
+                                        </div>
+                                        <div class="flex" data-v-2e07da95="">
+                                         <span class="selection flex" data-v-2e07da95="">
+                                          <div class="selection-wapper selection-data" data-v-2e07da95="" data-v-7f128c6a="" idfoselection="157746355.3">
+                                           <!-- -->
+                                           <!-- -->
+                                           <div class="value" data-v-7f128c6a="">
+                                            <div class="sh" data-v-7f128c6a="">
+                                             <div class="currenthandicap" data-v-7f128c6a="">
+                                              <div class="had-value" data-v-7f128c6a="">
+                                               <!-- -->
+                                               <span data-v-7f128c6a="">
+                                                U
+                                               </span>
+                                              </div>
+                                              <div class="uo-currenthandicap" data-v-7f128c6a="">
+                                               51.5
+                                              </div>
+                                              <!-- -->
+                                              <!-- -->
+                                             </div>
+                                             <div class="selectionprice" data-v-7f128c6a="">
+                                              -104
+                                             </div>
+                                            </div>
+                                           </div>
+                                           <!-- -->
+                                          </div>
+                                         </span>
+                                         <!-- -->
+                                        </div>
+                                       </div>
+                                      </div>
+                                     </div>
+                                    </div>
+                                   </div>
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                   <!-- -->
+                                  </div>
+                                 </div>
+                                </div>
+                               </div>
+                               <section class="single-coupon-footer">
+                                <div class="time">
+                          
