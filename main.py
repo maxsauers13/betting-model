@@ -4,41 +4,35 @@ import betting
 import scraper
 import time
 
+# FILENAME = 'nba-games.txt'
+FILENAME = 'nfl-games.txt'
+
 def main():
-    #team1 = 'Tampa Bay Buccaneers'
-    #team2 = 'Detroit Lions'
+    lines = []
+    lines.append(betting.makeLines(FILENAME, 'Los Angeles Rams', 'Green Bay Packers'))
+    lines.append(betting.makeLines(FILENAME, 'Baltimore Ravens', 'Buffalo Bills'))
+    lines.append(betting.makeLines(FILENAME, 'Cleveland Browns', 'Kansas City Chiefs'))
+    lines.append(betting.makeLines(FILENAME, 'Tampa Bay Buccaneers', 'New Orleans Saints'))
+    print("My Lines:")
+    for game in lines:
+        print('Teams           Spread  ML  O/U')
+        print(game[0][0] + '  ' + game[0][1] + '  ' + game[0][2] + '  ' + game[0][3])
+        print(game[1][0] + '  ' + game[1][1] + '  ' + game[1][2] + '  ' + game[1][3])
+        print("")
 
-    #team1percentage, team2percentage, team1scores, team2scores = montecarlo.monteCarlo(team1, team2)
-
-    #ml1 = betting.moneyline(team1percentage)
-    #ml2 = betting.moneyline(team2percentage)
-    #spread = betting.spread(team1scores, team2scores)
-    #team1spread = ml1[0] + str(spread)
-    #team2spread = ml2[0] + str(spread)
-    #over = str(betting.overUnder(team1scores, team2scores))
-
-    #print("My Lines:")
-    #print(team1 + ' ' + ml1 + ' ' + team1spread + ' +' + over)
-    #print(team2 + ' ' + ml2 + ' ' + team2spread + ' -' + over)
-    #print("")
-
-    #print("Fanduel Lines:")
+    print("Fanduel Lines:")
     gameSlate = scraper.getLiveLines()
-    #for game in gameSlate:
-        #print('Teams             Spread         ML     O/U')
-        #if 'over' in game:
-        #if len(game) == 12:
-        #print(game['away'] + '  ' + game['awaySpread'] + ' (' + game['awaySpreadOdds'] + ')  ' + game['awayMoney'] + '  ' + game['over'] + ' (' + game['overOdds'] + ')')
-        #print(game['home'] + '  ' + game['homeSpread'] + ' (' + game['homeSpreadOdds'] + ')  ' + game['homeMoney'] + '  ' + game['under'] + ' (' + game['underOdds'] + ')')
-        #else:
-            #print(game['away'] + '  ' + game['awaySpread'] + ' (' + game['awaySpreadOdds'] + ')  ' + game['awayMoney'])
-            #print(game['home'] + '  ' + game['homeSpread'] + ' (' + game['homeSpreadOdds'] + ')  ' + game['homeMoney'])
-        #print("")
+    for game in gameSlate:
+        print('Teams           Spread  ML  O/U')
+        print(game['away'] + '  ' + game['awaySpread'] + '  ' + game['awayMoney'] + '  ' + game['over'])
+        print(game['home'] + '  ' + game['homeSpread'] + '  ' + game['homeMoney'] + '  ' + game['under'])
+        print("")
 
-    betting.middlingInit(gameSlate)
-    for i in range(12):
-        i = i
-        time.sleep(600)
-        betting.middling()
+    # UNCOMMENT BELOW FOR MIDDLING FUNCTIONALITY
+    #betting.middlingInit(gameSlate)
+    #for i in range(60):
+    #    print(i)
+    #    time.sleep(60)
+    #    betting.middling()
 
 main()

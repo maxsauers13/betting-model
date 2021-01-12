@@ -5,9 +5,10 @@ from selenium.webdriver.common.keys import Keys
 import time
 import re
 
-GAME_LENTH = 16000
-#URL = 'https://il.sportsbook.fanduel.com/sports/navigation/6227.1/13348.3'
-URL = 'https://sportsbook.fanduel.com/sports/navigation/830.1/10107.3'
+GAME_LENTH = 14000
+URL = 'https://il.sportsbook.fanduel.com/sports/navigation/6227.1/13348.3'
+#URL = 'https://sportsbook.fanduel.com/sports/navigation/830.1/10107.3'
+API_URL = 'https://api.sportsdata.io/v3/nfl/scores/json/Scores/2020'
 
 #open driver and get html as a string
 def getHtml(url):
@@ -49,11 +50,11 @@ def getLiveLines():
     for game in game_strings:
         game_dict = {}
 
-        f = open('game.txt', 'w')
+        f = open('game-dynamic.txt', 'w')
         f.write(game)
         f.close()
 
-        f = open('game.txt', 'r')
+        f = open('game-dynamic.txt', 'r')
         lines = f.readlines()
         isAway = True
         for i in range(len(lines)):
@@ -71,14 +72,14 @@ def getLiveLines():
                     game_dict['awaySpread'] = lines[i].strip()
                     isAway = False
                     #find the odds line under the spread/over line
-                    while 'class="selectionprice"' not in lines[i]:
+                    while 'class="selectionprice"' not in lines[i] and 'class="selectionprice"' in f.read():
                         i += 1
                     i += 1
                     game_dict['awaySpreadOdds'] = lines[i].strip()
                 else:
                     game_dict['homeSpread'] = lines[i].strip()
                     isAway = True
-                    while 'class="selectionprice"' not in lines[i]:
+                    while 'class="selectionprice"' not in lines[i] and 'class="selectionprice"' in f.read():
                         i += 1
                     i += 1
                     game_dict['homeSpreadOdds'] = lines[i].strip()
@@ -87,14 +88,14 @@ def getLiveLines():
                 if isAway:
                     game_dict['over'] = '+' + lines[i].strip()
                     isAway = False
-                    while 'class="selectionprice"' not in lines[i]:
+                    while 'class="selectionprice"' not in lines[i] and 'class="selectionprice"' in f.read():
                         i += 1
                     i += 1
                     game_dict['overOdds'] = lines[i].strip()
                 else:
                     game_dict['under'] = '-' + lines[i].strip()
                     isAway = True
-                    while 'class="selectionprice"' not in lines[i]:
+                    while 'class="selectionprice"' not in lines[i] and 'class="selectionprice"' in f.read():
                         i += 1
                     i += 1
                     game_dict['underOdds'] = lines[i].strip()

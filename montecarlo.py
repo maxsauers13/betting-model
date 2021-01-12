@@ -4,39 +4,38 @@ import statistics
 import random
 from scipy.stats import norm
 
-TEAMS = ['Buffalo Bills', 'Miami Dolphins', 'New England Patriots', 'New York Jets', 'Pittsburgh Steelers', 'Cleveland Browns', 'Baltimore Ravens', 'Cincinnati Bengals', 'Indianapolis Colts', 'Tennessee Titans', 'Houston Texans', 'Jacksonville Jaguars', 'Kansas City Chiefs', 'Las Vegas Raiders', 'Denver Broncos', 'Los Angeles Chargers', 'Washington Football Team', 'New York Giants', 'Philadelphia Eagles', 'Dallas Cowboys', 'Green Bay Packers', 'Minnesota Vikings', 'Chicago Bears', 'Detroit Lions', 'New Orleans Saints', 'Tampa Bay Buccaneers', 'Atlanta Falcons', 'Carolina Panthers', 'Los Angeles Rams', 'Seattle Seahawks', 'Arizona Cardinals', 'San Francisco 49ers']
-MONTE_CARLO_ITERATIONS = 10000
+MONTE_CARLO_ITERATIONS = 2000
 
 # get the average points forced and against for a team
-def getAverages(teamName):
-    totals = fileReader.getTotalsTeam('season-data.csv', teamName)
-    averagePF = totals[1] / totals[0]
-    averagePA = totals[2] / totals[0]
+def getAverages(fileName, teamName):
+    points = fileReader.getScoresTeam(fileName, teamName)
+    averagePF = sum(points[0]) / len(points[0])
+    averagePA = sum(points[1]) / len(points[1])
     
     return averagePF, averagePA
 
 # get the adjusted points scored for two opposing teams
-def getAdjPoints(team1, team2):
-    team1avgPF, team1avgPA = getAverages(team1)
-    team2avgPF, team2avgPA = getAverages(team2)
+def getAdjPoints(fileName, team1, team2):
+    team1avgPF, team1avgPA = getAverages(fileName, team1)
+    team2avgPF, team2avgPA = getAverages(fileName, team2)
     adjPoints1 = math.sqrt(team1avgPF * team2avgPA)
     adjPoints2 = math.sqrt(team2avgPF * team1avgPA)
 
     return adjPoints1, adjPoints2
 
 # get the standard deviation for the scores of a team
-def getStDevPoints(teamName):
-    scores = fileReader.getScoresTeam('games-data.csv', teamName)
-    stDev = statistics.stdev(scores)
+def getStDevPoints(fileName, teamName):
+    scores = fileReader.getScoresTeam(fileName, teamName)
+    stDev = statistics.stdev(scores[0])
 
     return stDev
 
 # get the probability density function for opposing teams
-def getNorms(team1, team2):
-    team1adj, team2adj = getAdjPoints(team1, team2)
+def getNorms(fileName, team1, team2):
+    team1adj, team2adj = getAdjPoints(fileName, team1, team2)
 
-    std1 = getStDevPoints(team1)
-    std2 = getStDevPoints(team2)
+    std1 = getStDevPoints(fileName, team1)
+    std2 = getStDevPoints(fileName, team2)
 
     rand1 = random.random()
     rand2 = random.random()
@@ -47,7 +46,7 @@ def getNorms(team1, team2):
     return norm1, norm2
 
 # perform monte carlo machine learning method
-def monteCarlo(team1, team2):
+def monteCarlo(fileName, team1, team2):
     team1wins = 0
     team1scores = []
     team2wins = 0
@@ -55,7 +54,7 @@ def monteCarlo(team1, team2):
 
     count = 0
     while count < MONTE_CARLO_ITERATIONS:
-        team1score, team2score = getNorms(team1, team2)
+        team1score, team2score = getNorms(fileName, team1, team2)
 
         if team1score > team2score:
             team1wins += 1

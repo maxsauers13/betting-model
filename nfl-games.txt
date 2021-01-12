@@ -1,0 +1,256 @@
+Kansas City Chiefs,,Houston Texans,34,20
+Baltimore Ravens,,Cleveland Browns,38,6
+Seattle Seahawks,@,Atlanta Falcons,38,25
+Washington Football Team,,Philadelphia Eagles,27,17
+Jacksonville Jaguars,,Indianapolis Colts,27,20
+Chicago Bears,@,Detroit Lions,27,23
+Las Vegas Raiders,@,Carolina Panthers,34,30
+New England Patriots,,Miami Dolphins,21,11
+Buffalo Bills,,New York Jets,27,17
+Green Bay Packers,@,Minnesota Vikings,43,34
+Los Angeles Chargers,@,Cincinnati Bengals,16,13
+New Orleans Saints,,Tampa Bay Buccaneers,34,23
+Arizona Cardinals,@,San Francisco 49ers,24,20
+Los Angeles Rams,,Dallas Cowboys,20,17
+Pittsburgh Steelers,@,New York Giants,26,16
+Tennessee Titans,@,Denver Broncos,16,14
+Cleveland Browns,,Cincinnati Bengals,35,30
+Dallas Cowboys,,Atlanta Falcons,40,39
+Los Angeles Rams,@,Philadelphia Eagles,37,19
+Pittsburgh Steelers,,Denver Broncos,26,21
+Indianapolis Colts,,Minnesota Vikings,28,11
+Chicago Bears,,New York Giants,17,13
+Tampa Bay Buccaneers,,Carolina Panthers,31,17
+Tennessee Titans,,Jacksonville Jaguars,33,30
+Buffalo Bills,@,Miami Dolphins,31,28
+Green Bay Packers,,Detroit Lions,42,21
+San Francisco 49ers,@,New York Jets,31,13
+Arizona Cardinals,,Washington Football Team,30,15
+Baltimore Ravens,@,Houston Texans,33,16
+Kansas City Chiefs,@,Los Angeles Chargers,23,20
+Seattle Seahawks,,New England Patriots,35,30
+Las Vegas Raiders,,New Orleans Saints,34,24
+Miami Dolphins,@,Jacksonville Jaguars,31,13
+Tennessee Titans,@,Minnesota Vikings,31,30
+Philadelphia Eagles,,Cincinnati Bengals,23,23
+Buffalo Bills,,Los Angeles Rams,35,32
+New England Patriots,,Las Vegas Raiders,36,20
+Cleveland Browns,,Washington Football Team,34,20
+San Francisco 49ers,@,New York Giants,36,9
+Chicago Bears,@,Atlanta Falcons,30,26
+Pittsburgh Steelers,,Houston Texans,28,21
+Indianapolis Colts,,New York Jets,36,7
+Carolina Panthers,@,Los Angeles Chargers,21,16
+Seattle Seahawks,,Dallas Cowboys,38,31
+Detroit Lions,@,Arizona Cardinals,26,23
+Tampa Bay Buccaneers,@,Denver Broncos,28,10
+Green Bay Packers,@,New Orleans Saints,37,30
+Kansas City Chiefs,@,Baltimore Ravens,34,20
+Denver Broncos,@,New York Jets,37,28
+Minnesota Vikings,@,Houston Texans,31,23
+Tampa Bay Buccaneers,,Los Angeles Chargers,38,31
+New Orleans Saints,@,Detroit Lions,35,29
+Carolina Panthers,,Arizona Cardinals,31,21
+Cincinnati Bengals,,Jacksonville Jaguars,33,25
+Cleveland Browns,@,Dallas Cowboys,49,38
+Baltimore Ravens,@,Washington Football Team,31,17
+Seattle Seahawks,@,Miami Dolphins,31,23
+Indianapolis Colts,@,Chicago Bears,19,11
+Los Angeles Rams,,New York Giants,17,9
+Buffalo Bills,@,Las Vegas Raiders,30,23
+Philadelphia Eagles,@,San Francisco 49ers,25,20
+Kansas City Chiefs,,New England Patriots,26,10
+Green Bay Packers,,Atlanta Falcons,30,16
+Chicago Bears,,Tampa Bay Buccaneers,20,19
+Pittsburgh Steelers,,Philadelphia Eagles,38,29
+Carolina Panthers,@,Atlanta Falcons,23,16
+Houston Texans,,Jacksonville Jaguars,30,14
+Las Vegas Raiders,@,Kansas City Chiefs,40,32
+Baltimore Ravens,,Cincinnati Bengals,27,3
+Arizona Cardinals,@,New York Jets,30,10
+Los Angeles Rams,@,Washington Football Team,30,10
+Miami Dolphins,@,San Francisco 49ers,43,17
+Dallas Cowboys,,New York Giants,37,34
+Cleveland Browns,,Indianapolis Colts,32,23
+Seattle Seahawks,,Minnesota Vikings,27,26
+New Orleans Saints,,Los Angeles Chargers,30,27
+Tennessee Titans,,Buffalo Bills,42,16
+Denver Broncos,@,New England Patriots,18,12
+Detroit Lions,@,Jacksonville Jaguars,34,16
+New York Giants,,Washington Football Team,20,19
+Pittsburgh Steelers,,Cleveland Browns,38,7
+Baltimore Ravens,@,Philadelphia Eagles,30,28
+Atlanta Falcons,@,Minnesota Vikings,40,23
+Chicago Bears,@,Carolina Panthers,23,16
+Tennessee Titans,,Houston Texans,42,36
+Indianapolis Colts,,Cincinnati Bengals,31,27
+Miami Dolphins,,New York Jets,24,0
+Tampa Bay Buccaneers,,Green Bay Packers,38,10
+San Francisco 49ers,,Los Angeles Rams,24,16
+Kansas City Chiefs,@,Buffalo Bills,26,17
+Arizona Cardinals,@,Dallas Cowboys,38,10
+Philadelphia Eagles,,New York Giants,22,21
+Pittsburgh Steelers,@,Tennessee Titans,27,24
+Green Bay Packers,@,Houston Texans,35,20
+Cleveland Browns,@,Cincinnati Bengals,37,34
+Buffalo Bills,@,New York Jets,18,10
+Washington Football Team,,Dallas Cowboys,25,3
+Detroit Lions,@,Atlanta Falcons,23,22
+New Orleans Saints,,Carolina Panthers,27,24
+Tampa Bay Buccaneers,@,Las Vegas Raiders,45,20
+San Francisco 49ers,@,New England Patriots,33,6
+Kansas City Chiefs,@,Denver Broncos,43,16
+Los Angeles Chargers,,Jacksonville Jaguars,39,29
+Arizona Cardinals,,Seattle Seahawks,37,34
+Los Angeles Rams,,Chicago Bears,24,10
+Atlanta Falcons,@,Carolina Panthers,25,17
+Indianapolis Colts,@,Detroit Lions,41,21
+Pittsburgh Steelers,@,Baltimore Ravens,28,24
+Miami Dolphins,,Los Angeles Rams,28,17
+Minnesota Vikings,@,Green Bay Packers,28,22
+Las Vegas Raiders,@,Cleveland Browns,16,6
+Cincinnati Bengals,,Tennessee Titans,31,20
+Buffalo Bills,,New England Patriots,24,21
+Kansas City Chiefs,,New York Jets,35,9
+Denver Broncos,,Los Angeles Chargers,31,30
+Seattle Seahawks,,San Francisco 49ers,37,27
+New Orleans Saints,@,Chicago Bears,26,23
+Philadelphia Eagles,,Dallas Cowboys,23,9
+Tampa Bay Buccaneers,@,New York Giants,25,23
+Green Bay Packers,@,San Francisco 49ers,34,17
+Baltimore Ravens,@,Indianapolis Colts,24,10
+Minnesota Vikings,,Detroit Lions,34,20
+Houston Texans,@,Jacksonville Jaguars,27,25
+Tennessee Titans,,Chicago Bears,24,17
+Kansas City Chiefs,,Carolina Panthers,33,31
+Atlanta Falcons,,Denver Broncos,34,27
+New York Giants,@,Washington Football Team,23,20
+Buffalo Bills,,Seattle Seahawks,44,34
+Las Vegas Raiders,@,Los Angeles Chargers,31,26
+Miami Dolphins,@,Arizona Cardinals,34,31
+Pittsburgh Steelers,@,Dallas Cowboys,24,19
+New Orleans Saints,@,Tampa Bay Buccaneers,38,3
+New England Patriots,@,New York Jets,30,27
+Indianapolis Colts,@,Tennessee Titans,34,17
+Detroit Lions,,Washington Football Team,30,27
+Green Bay Packers,,Jacksonville Jaguars,24,20
+Cleveland Browns,,Houston Texans,10,7
+New York Giants,,Philadelphia Eagles,27,17
+Tampa Bay Buccaneers,@,Carolina Panthers,46,23
+Las Vegas Raiders,,Denver Broncos,37,12
+Miami Dolphins,,Los Angeles Chargers,29,21
+Arizona Cardinals,,Buffalo Bills,32,30
+New Orleans Saints,,San Francisco 49ers,27,13
+Los Angeles Rams,,Seattle Seahawks,23,16
+Pittsburgh Steelers,,Cincinnati Bengals,36,10
+New England Patriots,,Baltimore Ravens,23,17
+Minnesota Vikings,@,Chicago Bears,19,13
+Seattle Seahawks,,Arizona Cardinals,28,21
+Cleveland Browns,,Philadelphia Eagles,22,17
+Washington Football Team,,Cincinnati Bengals,20,9
+Houston Texans,,New England Patriots,27,20
+Pittsburgh Steelers,@,Jacksonville Jaguars,27,3
+New Orleans Saints,,Atlanta Falcons,24,9
+Tennessee Titans,@,Baltimore Ravens,30,24
+Carolina Panthers,,Detroit Lions,20,0
+Los Angeles Chargers,,New York Jets,34,28
+Denver Broncos,,Miami Dolphins,20,13
+Dallas Cowboys,@,Minnesota Vikings,31,28
+Indianapolis Colts,,Green Bay Packers,34,31
+Kansas City Chiefs,@,Las Vegas Raiders,35,31
+Los Angeles Rams,@,Tampa Bay Buccaneers,27,24
+Houston Texans,@,Detroit Lions,41,25
+Washington Football Team,@,Dallas Cowboys,41,16
+New England Patriots,,Arizona Cardinals,20,17
+Tennessee Titans,@,Indianapolis Colts,45,26
+Miami Dolphins,@,New York Jets,20,3
+Cleveland Browns,@,Jacksonville Jaguars,27,25
+New York Giants,@,Cincinnati Bengals,19,17
+Buffalo Bills,,Los Angeles Chargers,27,17
+Atlanta Falcons,,Las Vegas Raiders,43,6
+Minnesota Vikings,,Carolina Panthers,28,27
+San Francisco 49ers,@,Los Angeles Rams,23,20
+New Orleans Saints,@,Denver Broncos,31,3
+Kansas City Chiefs,@,Tampa Bay Buccaneers,27,24
+Green Bay Packers,,Chicago Bears,41,25
+Seattle Seahawks,@,Philadelphia Eagles,23,17
+Pittsburgh Steelers,,Baltimore Ravens,19,14
+New Orleans Saints,@,Atlanta Falcons,21,16
+Indianapolis Colts,@,Houston Texans,26,20
+Las Vegas Raiders,@,New York Jets,31,28
+Cleveland Browns,@,Tennessee Titans,41,35
+Miami Dolphins,,Cincinnati Bengals,19,7
+Detroit Lions,@,Chicago Bears,34,30
+Minnesota Vikings,,Jacksonville Jaguars,27,24
+New York Giants,@,Seattle Seahawks,17,12
+Los Angeles Rams,@,Arizona Cardinals,38,28
+New England Patriots,@,Los Angeles Chargers,45,0
+Green Bay Packers,,Philadelphia Eagles,30,16
+Kansas City Chiefs,,Denver Broncos,22,16
+Washington Football Team,@,Pittsburgh Steelers,23,17
+Buffalo Bills,@,San Francisco 49ers,34,24
+Baltimore Ravens,,Dallas Cowboys,34,17
+Los Angeles Rams,,New England Patriots,24,3
+Chicago Bears,,Houston Texans,36,7
+Tennessee Titans,@,Jacksonville Jaguars,31,10
+Denver Broncos,@,Carolina Panthers,32,27
+Tampa Bay Buccaneers,,Minnesota Vikings,26,14
+Kansas City Chiefs,@,Miami Dolphins,33,27
+Arizona Cardinals,@,New York Giants,26,7
+Dallas Cowboys,@,Cincinnati Bengals,30,7
+Indianapolis Colts,@,Las Vegas Raiders,44,27
+Seattle Seahawks,,New York Jets,40,3
+Washington Football Team,@,San Francisco 49ers,23,15
+Los Angeles Chargers,,Atlanta Falcons,20,17
+Green Bay Packers,@,Detroit Lions,31,24
+Philadelphia Eagles,,New Orleans Saints,24,21
+Buffalo Bills,,Pittsburgh Steelers,26,15
+Baltimore Ravens,@,Cleveland Browns,47,42
+Los Angeles Chargers,@,Las Vegas Raiders,30,27
+Buffalo Bills,@,Denver Broncos,48,19
+Green Bay Packers,,Carolina Panthers,24,16
+Indianapolis Colts,,Houston Texans,27,20
+Dallas Cowboys,,San Francisco 49ers,41,33
+Chicago Bears,@,Minnesota Vikings,33,27
+Baltimore Ravens,,Jacksonville Jaguars,40,14
+Miami Dolphins,,New England Patriots,22,12
+Seattle Seahawks,@,Washington Football Team,20,15
+Tampa Bay Buccaneers,@,Atlanta Falcons,31,27
+Tennessee Titans,,Detroit Lions,46,25
+Arizona Cardinals,,Philadelphia Eagles,33,26
+New York Jets,@,Los Angeles Rams,23,20
+Kansas City Chiefs,@,New Orleans Saints,32,29
+Cleveland Browns,@,New York Giants,20,6
+Cincinnati Bengals,,Pittsburgh Steelers,27,17
+New Orleans Saints,,Minnesota Vikings,52,33
+Tampa Bay Buccaneers,@,Detroit Lions,47,7
+San Francisco 49ers,@,Arizona Cardinals,20,12
+Miami Dolphins,@,Las Vegas Raiders,26,25
+Kansas City Chiefs,,Atlanta Falcons,17,14
+Pittsburgh Steelers,,Indianapolis Colts,28,24
+New York Jets,,Cleveland Browns,23,16
+Cincinnati Bengals,@,Houston Texans,37,31
+Baltimore Ravens,,New York Giants,27,13
+Chicago Bears,@,Jacksonville Jaguars,41,17
+Los Angeles Chargers,,Denver Broncos,19,16
+Carolina Panthers,@,Washington Football Team,20,13
+Seattle Seahawks,,Los Angeles Rams,20,9
+Dallas Cowboys,,Philadelphia Eagles,37,17
+Green Bay Packers,,Tennessee Titans,40,14
+Buffalo Bills,@,New England Patriots,38,9
+Tampa Bay Buccaneers,,Atlanta Falcons,44,27
+Minnesota Vikings,@,Detroit Lions,37,35
+Cleveland Browns,,Pittsburgh Steelers,24,22
+Baltimore Ravens,@,Cincinnati Bengals,38,3
+Buffalo Bills,,Miami Dolphins,56,26
+New England Patriots,,New York Jets,28,14
+New York Giants,,Dallas Cowboys,23,19
+Green Bay Packers,@,Chicago Bears,35,16
+New Orleans Saints,@,Carolina Panthers,33,7
+Los Angeles Chargers,@,Kansas City Chiefs,38,21
+Tennessee Titans,@,Houston Texans,41,38
+Los Angeles Rams,,Arizona Cardinals,18,7
+Las Vegas Raiders,@,Denver Broncos,32,31
+Indianapolis Colts,,Jacksonville Jaguars,28,14
+Seattle Seahawks,@,San Francisco 49ers,26,23
+Washington Football Team,@,Philadelphia Eagles,20,14

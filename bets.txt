@@ -1,14 +1,8 @@
-Indiana Pacers,-8,-105
-Cleveland Cavaliers,Indiana Pacers,+220.5,-110
-Washington Wizards,-6.5,-110
-Chicago Bulls,Washington Wizards,+237,-110
-Philadelphia 76ers,-3,-114
-Philadelphia 76ers,Orlando Magic,+220,-110
-Houston Rockets,-5.5,-110
-Sacramento Kings,Houston Rockets,+231.5,-110
-Toronto Raptors,-9.5,-110
-New York Knicks,Toronto Raptors,+217,-110
-New Orleans Pelicans,-5,-114
-New Orleans Pelicans,Oklahoma City Thunder,+216,-105
-Utah Jazz,-3.5,-110
-Phoenix Suns,Utah Jazz,+220.5,-115
+Green Bay Packers,-6.5,</div>
+Los Angeles Rams,Green Bay Packers,+45.5,</div>
+Buffalo Bills,-2,</div>
+Baltimore Ravens,Buffalo Bills,+50,</div>
+Kansas City Chiefs,-10,</div>
+Cleveland Browns,Kansas City Chiefs,+56,</div>
+New Orleans Saints,-3,</div>
+Tampa Bay Buccaneers,New Orleans Saints,+51.5,</div>
